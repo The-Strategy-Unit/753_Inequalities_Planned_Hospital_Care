@@ -4,13 +4,13 @@ This repository contains files relating to project exploring socio-economic ineq
 
 There are a seven of markdown files which relate to the chapter in the mian report. These files describe the data that was used, the methods used to assemble,organise and analyse this data.  The seven files are;
 
-- Chpt2---Descriptive-analysis
-- Chpt3a---Pathway-analysis-(COPD)
-- Chpt3b---Pathway-analysis-(Heart Failure)
-- Chpt3c---Pathway-analysis-(Hip Arthritis)
-- Chpt3d---Pathway-analysis-(Cataracts)
-- Chpt4---Drivers-analysis#
-- Chpt5---Impact_unplanned_care
+- Chapter-2----Descriptive-analysis
+- Chapter-3a---Pathway-analysis-COPD
+- Chapter-3b---Pathway-analysis-Heart-Failure
+- Chapter-3c---Pathway-analysis-Hip-Arthritis
+- Chapter-3d---Pathway-analysis-Cataracts
+- Chapter-4----Drivers-analysis
+- Chapter-5----Impact-unplanned-care
 
 
 For further information, please contact:
