@@ -17,5 +17,6 @@ For further information, please contact:
 
 Steven Wyatt,
 Head of Analytics,
-The Strategy Unit,
+The Strategy Unit
+
 swyatt@nhs.net
