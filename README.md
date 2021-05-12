@@ -15,7 +15,7 @@ There are a seven of markdown files which relate to the chapter in the mian repo
 
 For further information, please contact:
 
-Steven Wyatt
-Head of Analytics
-The Strategy Unit
+Steven Wyatt,
+Head of Analytics,
+The Strategy Unit,
 swyatt@nhs.net
